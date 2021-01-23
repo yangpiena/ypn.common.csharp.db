@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ypn.common.csharp.db", "ypn.common.csharp.db\ypn.common.csharp.db.csproj", "{79251CCB-1E88-4273-8D8E-B9AFE310EBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79251CCB-1E88-4273-8D8E-B9AFE310EBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79251CCB-1E88-4273-8D8E-B9AFE310EBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79251CCB-1E88-4273-8D8E-B9AFE310EBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79251CCB-1E88-4273-8D8E-B9AFE310EBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C13426D-F948-488B-830A-E6DF192BC55E}
+	EndGlobalSection
+EndGlobal
