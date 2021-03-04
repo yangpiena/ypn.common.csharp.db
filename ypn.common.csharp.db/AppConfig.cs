@@ -75,9 +75,5 @@ namespace ypn.common.csharp.db
         /// 通用表格下载地址
         /// </summary>
         public const string DOWNLOADTEMPLATEURL = "http://127.0.0.1/import.Out.Common.xlsx";
-        /// <summary>
-        ///每次下载产品的数量
-        /// </summary>
-        public const int DOWNLOADPRODUCTQUANTITY = 500 ;
     }
 }
